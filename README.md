@@ -4,3 +4,5 @@
 - Python 3 any version
 - mechanize library( pip install mechanize )
 - a password-wordlist file with .txt extension
+
+In passwordTake.py, an example url I created is used.
